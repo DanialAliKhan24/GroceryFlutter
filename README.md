@@ -2,7 +2,7 @@
 
 A Flutter Ui Kit For Grocery Shopping App 🚀
 
-The grocery app is a design implementation of [Grocery App](https://dribbble.com/shots/18467737-Grocery-App) designed by [Omar](https://dribbble.com/omaruiux24).
+The grocery app is a design implementation of [Grocery App](https://dribbble.com/shots/18467737-Grocery-App) designed by Me.
 
 This project relied on this [Flutter Getx Template](https://github.com/EmadBeltaje/flutter_getx_template) made by [Emad Beltaje](https://github.com/EmadBeltaje).
 
@@ -57,6 +57,3 @@ The Flutter Grocery UI is a visually captivating and fully functional User Inter
 ---
 
 ## Don't forget to :star: the repository.
-
-## Support ❤️
-For support, you can contact me at this [Email](mailto:abd8alqader@gmail.com) or at [Facebook](https://www.facebook.com/aasharef/).
